@@ -1,0 +1,10 @@
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\Data.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\Data.pdb
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\UnitTests\obj\Debug\UnitTests.pdb

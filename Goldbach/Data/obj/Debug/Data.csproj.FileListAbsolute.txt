@@ -1,0 +1,4 @@
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\Data\bin\Debug\Data.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\Data\bin\Debug\Data.pdb
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\Data\obj\Debug\Data.dll
+C:\Users\Ben\Source\Repos\GeneralCode\Goldbach\Data\obj\Debug\Data.pdb
